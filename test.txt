@@ -2,8 +2,16 @@ Uji coba testing
 Branch
 Pull
 Fetch
-<<<<<<< Updated upstream
 Push
-=======
-rebase
->>>>>>> Stashed changes
+
+
+Buatlah suatu program untuk menghasilkan sebuah papan catur dengan ukuran 8 x 8 . Papan berwarna hitam memakai tanda pagar (#) sedangkan papan putih menggunakan spasi.
+Output:
+  #  #  #  #
+#  #  #  # 
+  #  #  #  #
+#  #  #  # 
+  #  #  #  #
+#  #  #  # 
+  #  #  #  #
+#  #  #  #
