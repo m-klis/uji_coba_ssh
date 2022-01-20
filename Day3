@@ -9,17 +9,18 @@ Masih, proses analisa.
 
 1. Alur penggunaan :
     - Trello > Membuat Judul Projek, invite tim, Membuat list, menambah kelompok list tiap tugas, melakukan cek list.
-    - Jira > Tetapkan projek dan setup projek, invite team, create task, monitoring task.
-    - YouTrack > 
+    - Jira > Tetapkan projek dan setup projek, invite team, create task, monitoring task, update task.
+    - YouTrack > Create track list issues / create issue, update issues.
 
 2. Kelebihan :
     - Trello > automatic move list "done", support attach picture, tampilan user friendly, mudah digunakan, bisa dimanfaatkan untuk berbagai projek. Dikembangkan oleh Atlassian.
     - Jira > Simple board, on/off features as needed, roadmap setup, attach snippets code, Jira search, jira reports. Enterprise purpose "Software Development". Dikembangkan oleh Atlassian.
-    - YouTrack > 
+    - YouTrack > Filter issues, update some issues in once update, track multi project, attach file and images, time tracking, agile board, reports, dashboard.
 
 3. Ketiganya, belum support bahasa Indonesia. Untuk youtrack, tidak disarankan untuk pengguna awam.
 
 4. Kesimpulan :
+    Sistem ticketing pada refactory memiliki fitur yang sama digunakan pada ketiga contoh software di atas. Karena memang mempunyai fungsi yang sama yaitu sebagai software ticketing system.
 
 
 
