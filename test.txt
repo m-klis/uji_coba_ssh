@@ -2,4 +2,8 @@ Uji coba testing
 Branch
 Pull
 Fetch
+<<<<<<< Updated upstream
 Push
+=======
+rebase
+>>>>>>> Stashed changes
