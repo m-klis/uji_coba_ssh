@@ -5,7 +5,7 @@ Fetch
 Push
 
 
-Buatlah suatu program untuk menghasilkan sebuah papan catur dengan ukuran 8 x 8 . Papan berwarna hitam memakai tanda pagar (#) sedangkan papan putih menggunakan spasi.
+### Buatlah suatu program untuk menghasilkan sebuah papan catur dengan ukuran 8 x 8 . Papan berwarna hitam memakai tanda pagar (#) sedangkan papan putih menggunakan spasi.
 Output:
   #  #  #  #
 #  #  #  # 
@@ -16,4 +16,26 @@ Output:
   #  #  #  #
 #  #  #  #
 
+### Buat lah sebuah program menggunakan bahasa pemrograman (yang dikuasai) dengan syntax perulangan. Apabila angka termasuk bilangan ganjil maka tampilkan Santai, Jika berupa angka genap maka tampilkan Berkualitas, Bila angka tersebut adalah kelipatan 3 dan angka ganjil maka tampilkan I Love Coding
+OUTPUT 
 
+1 - Santai
+2 - Berkualitas
+3 - I Love Coding 
+4 - Berkualitas
+5 - Santai
+6 - Berkualitas
+7 - Santai
+8 - Berkualitas
+9 - I Love Coding
+10 - Berkualitas
+11 - Santai
+12 - Berkualitas
+13 - Santai
+14 - Berkualitas
+15 - I Love Coding
+16 - Berkualitas
+17 - Santai
+18 - Berkualitas
+19 - Santai
+20 - Berkualitas
